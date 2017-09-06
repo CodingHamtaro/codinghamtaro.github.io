@@ -1,0 +1,70 @@
+/* fonts */
+h1 {
+	font-family: Consolas, monaco, monospace;
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+}
+h3 {
+	font-family: Consolas, monaco, monospace;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;
+}
+p,
+a {
+	font-family: Consolas, monaco, monospace;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;
+}
+blockquote {
+	font-family: Consolas, monaco, monospace;
+	font-size: 21px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 30px;
+}
+pre {
+	font-family: Consolas, monaco, monospace;
+	font-size: 13px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 18.5714px;
+}
+/* end of fonts */
+
+body {
+    background: #F0F0F0;
+}
+
+a {
+    text-decoration: none;
+    color: #ff6347;
+}
+
+.container {
+    padding: 2rem;
+}
+
+.box {
+    background: #ffffff;
+    padding: 2rem;
+    border-radius: 10px;
+}
+
+.box-title {
+    border-bottom: 1px solid #D8D8D8;
+}
+
+.subtitle {
+    margin-top: -20px;
+}
