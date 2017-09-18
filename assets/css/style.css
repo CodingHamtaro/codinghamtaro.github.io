@@ -68,3 +68,13 @@ a {
 .subtitle {
     margin-top: -20px;
 }
+
+.project {
+	padding: 2rem;
+	background: #ECECEC;
+	border-radius: 5px;
+}
+
+.breaker {
+	height: 20px;
+}
